@@ -1,5 +1,10 @@
+//Copyright 2026 petr smirnov
+#ifndef INCLUDE_AUTOMATA_H_
+#define INCLUDE_AUTOMATA_H_
+
 #include <vector>
 #include <string>
+
 enum STATES {
 	OFF,
 	WAIT,
@@ -30,3 +35,4 @@ private:
 	bool check(int choice);
 
 };
+#endif

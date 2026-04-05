@@ -13,8 +13,7 @@ enum STATES {
 	COOK
 };
 class Automata {
-
-public:
+ public:
 	Automata();
 	void on();
 	void off();
@@ -25,7 +24,7 @@ public:
 	void cancel();
 	double getBalance();
 	double getExchange();
-private:
+ private:
 	double cash;
 	STATES state;
 	std::vector<std::string> menu;
@@ -33,6 +32,5 @@ private:
 	void cook(int choice);
 	void finish();
 	bool check(int choice);
-
 };
-#endif
+#endif // INCLUDE_AUTOMATA_H_"

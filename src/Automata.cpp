@@ -32,7 +32,7 @@ void Automata::coin(double money) {
         std::cout << "Added " << money << " , balance: " << cash << "\n";
     } else {
       std::cout << "incorrect state for deposit\n";
-	}
+    }
 }
 std::vector<std::string> Automata::getMenu() {
     return menu;
@@ -47,7 +47,7 @@ void Automata::choice(int index) {
         return;
     }
     state = CHECK;
-	cook(index);
+    cook(index);
 }
 bool Automata::check(int index) {
     if (state != CHECK) return false;

@@ -1,7 +1,10 @@
+//Copyright 2026 petr smirnov
 #include "Automata.h"
 #include <iostream>
 #include <thread>
 #include <chrono>
+#include <string>
+#include <vector>
 
 Automata::Automata() {
 	cash = 0;
@@ -75,14 +78,13 @@ void Automata::finish() {
 	state = WAIT;
 	std::cout << "Process finished\n";
 }
-double Automata::getExchange() { 
+double Automata::getExchange() {
 	if ((state == WAIT || state == ACCEPT) && cash > 0) {
 		std::cout << "Your exchange: " << cash << "\n";
 		double temp = cash;
 		cash = 0;
 		return temp;
-	}
-	else {
+	} else {
 		std::cout << "Nothing to return or wrong state.\n";
 	}
 }

@@ -83,7 +83,6 @@ double Automata::getExchange() {
         double temp = cash;
         cash = 0;
         return temp;
-    } else {
-        std::cout << "Nothing to return or wrong state.\n";
     }
+    return 0;
 }

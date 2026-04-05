@@ -2,6 +2,9 @@
 
 #include <gtest/gtest.h>
 #include "Automata.h"
+#include <string>
+#include <vector>
+
 TEST(AutomataTest, GetsMenu) {
 	std::vector<std::string> menu = { "espresso", "latte", "hot chocolate" };
 	Automata autom;

@@ -1,0 +1,21 @@
+# ninja log v6
+3	47	7971162447171572	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	f1a8ad6b53f708c6
+3	47	7971162447171572	C:/Users/sebas/mod-lab03-coffee/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	f1a8ad6b53f708c6
+48	2155	7971162468258393	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	e7c52f320a3fa00f
+48	2155	7971162468258393	C:/Users/sebas/mod-lab03-coffee/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	e7c52f320a3fa00f
+2156	2193	7971162468628478	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	f635975c2e629b4c
+2156	2193	7971162468628478	C:/Users/sebas/mod-lab03-coffee/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	f635975c2e629b4c
+2193	2231	7971162469018465	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	ae5cf49df4d54aea
+2193	2231	7971162469018465	C:/Users/sebas/mod-lab03-coffee/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	ae5cf49df4d54aea
+2231	2270	7971162469398471	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	ba3daaddc69da537
+2231	2270	7971162469398471	C:/Users/sebas/mod-lab03-coffee/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	ba3daaddc69da537
+2270	2308	7971162469778467	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	495cb2862b0302ae
+2270	2308	7971162469778467	C:/Users/sebas/mod-lab03-coffee/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	495cb2862b0302ae
+2308	2343	7971162470138462	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	9ceb25e78c46988e
+2308	2343	7971162470138462	C:/Users/sebas/mod-lab03-coffee/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	9ceb25e78c46988e
+2343	2379	7971162470498466	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	cec791433e8bd40d
+2343	2379	7971162470498466	C:/Users/sebas/mod-lab03-coffee/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	cec791433e8bd40d
+2379	2430	7971162471008472	CMakeFiles/googletest-populate-complete	9716bbca11c06237
+2379	2430	7971162471008472	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	9716bbca11c06237
+2379	2430	7971162471008472	C:/Users/sebas/mod-lab03-coffee/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	9716bbca11c06237
+2379	2430	7971162471008472	C:/Users/sebas/mod-lab03-coffee/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	9716bbca11c06237

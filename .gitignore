@@ -1,0 +1,15 @@
+
+.vs/
+
+
+Debug/
+Release/
+x64/
+x86/
+
+
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
+*.pdb
